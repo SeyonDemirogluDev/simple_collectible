@@ -1,5 +1,5 @@
 # Monkey
-** Monkey is an ERC721, which is mintable, pausable, ownable and burnable. Mint now and free m-mo-monkeys!🍌🙈
+**Monkey is an ERC721, which is mintable, pausable, ownable and burnable. Mint now and free monke!🍌🙈**
 
 ```
 mint()
@@ -17,6 +17,6 @@ unpause()
 *Function for continuing the mint.*
 
 ```
-ERC721Burnable
+burn()
 ```
-*Import for access to `burn()`, with it you can burn your monkeys. Don't do it😰*
+*Function to burn your monkeys. Monke sad :( Don't do it😰*
