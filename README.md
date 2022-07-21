@@ -69,7 +69,7 @@ ownerOf()
 ```
 supportsInterface()
 ```
-*Returns true if this contract implements the interface defined by `interfaceId`*
+*Returns true if this contract implements the interface defined by `interfaceId`. Basically called externally by other protocols to check if they support your interface type.*
 
 ```
 mint()
